@@ -36,3 +36,15 @@ A modern **Online Library System** built using **React, Redux, React Router, and
 - **State Management:** Redux Toolkit
 - **Development Tool:** Vite
 
+- **Steps to Run the Project**
+- Clone the repository:
+- git clone https://github.com/Madhumita-15062020/Online-Book-Library
+- **Navigate to the project directory:**
+- cd online-book-library
+- **Install dependencies**
+- npm install
+- **Start the development server:**
+- npm run dev
+- Open your browser and go to http://localhost:5173 to view the app.
+
+
